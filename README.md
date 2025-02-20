@@ -2,6 +2,10 @@
 
 This project implements a Generative Adversarial Network (GAN) to generate anime-style faces using the Anime Face Dataset. The GAN consists of a Generator and a Discriminator, trained adversarially to create realistic anime face images from random noise.
 
+## Output
+![image](https://github.com/user-attachments/assets/b6e322aa-cb69-4bb2-992a-403b6b42266e)
+
+
 ## Features
 
 - Downloads and preprocesses the Anime Face Dataset from Kaggle.
